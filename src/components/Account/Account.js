@@ -4,12 +4,9 @@ import { connect } from 'react-redux';
 import { withRouter } from 'react-router'
 
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
-  ScrollView,
-  Image,
   TextInput,
   Button
 } from 'react-native';

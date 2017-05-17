@@ -4,11 +4,9 @@ import { Provider } from 'react-redux'
 import createStore from './store/store'
 
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
-  ScrollView,
   Image
 } from 'react-native';
 

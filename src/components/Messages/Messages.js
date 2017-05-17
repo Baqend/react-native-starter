@@ -1,12 +1,9 @@
 import React, { Component } from 'react'
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
-  ScrollView,
-  Image,
-  Button
+  Image
 } from 'react-native'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
