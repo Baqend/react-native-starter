@@ -1,6 +1,6 @@
 !["Logo"](https://github.com/Baqend/react-redux-starter/raw/master/react_baqend.png)
 
-#React Native Baqend Starter
+# React Native Baqend Starter
 With this React Native Baqend starter kit you can build **blazingly fast native applications** in no time. Setup your project by following the simple steps below.
 
 This project was bootstrapped with the [React Native cli](https://facebook.github.io/react-native/docs/getting-started.html).
@@ -23,7 +23,7 @@ To develop your own application
 3. Your React app will automatically connect to your app instance
 4. To access your data or backend features it´s recommended to use the [redux-baqend-middleware](https://github.com/Baqend/redux-baqend) within your redux actions
 5. You can also simply import the `db`-object with `import {db} from 'baqend'`
-and see our [Guide](http://www.baqend.com/guide/#accessing-data) and [API Docs](http://www.baqend.com/js-sdk/latest/baqend.html) for details
+and see our [Guide](http://www.baqend.com/guide/) and [API Docs](http://www.baqend.com/js-sdk/latest/baqend.html) for details
 
 For more information: on [React](https://facebook.github.io/react-native/), [Redux](http://redux.js.org/) or Baqend](http://www.baqend.com).
 
@@ -52,9 +52,9 @@ For more detailed information take a look on the provided example actions or in 
 ## How Baqend fits your Backend requirements
 
 Baqend is a fully managed Backend-as-a-Service platform with a strong focus on performance and scalability
-([click here for details](http://blog.baqend.com/post/139788321880/bringing-web-performance-to-the-next-level-an)).
+([click here for details](https://medium.baqend.com/bringing-web-performance-to-the-next-level-an-overview-of-baqend-be3521bc2faf)).
 The [JavaScript API](http://www.baqend.com/js-sdk/latest/baqend.html) gives you access to common backend features
-while the [dashboard](http://www.baqend.com/guide/#baqend-dashboard) lets you define data models and access rules as
+while the [dashboard](https://www.baqend.com/guide/topics/dashboard/) lets you define data models and access rules as
 well as business logic to execute on the server side.
 
 Baqend's feature set includes:
@@ -68,6 +68,6 @@ Baqend's feature set includes:
 * File Storage and Hosting
 * Access Control on Object and Schema Level
 
-#License
+# License
 
 [MIT](https://github.com/Baqend/react-redux-starter/blob/master/LICENSE)
